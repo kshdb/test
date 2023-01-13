@@ -1,1 +1,1 @@
-package test // import "cnwtn.com/test"
+package test // import "github.com/kshdb/test"
