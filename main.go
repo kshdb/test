@@ -1,4 +1,4 @@
-package test // import "github.com/kshdb/test"
+package test
 
 import (
 	"fmt"
