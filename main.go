@@ -1,4 +1,4 @@
-package test // import "cnwtn.com/test"
+package test // import "cnwtn.com/test/v1"
 
 import (
 	"fmt"
