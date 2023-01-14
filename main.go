@@ -1,4 +1,4 @@
-package test // import "cnwtn.com/test/v1"
+package test // import "git.qnsoft.cn/sxh/test"
 
 import (
 	"fmt"
